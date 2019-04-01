@@ -7,9 +7,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieApp.Mobile.Android", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieApp.Mobile.iOS", "MovieApp.Mobile\MovieApp.Mobile.iOS\MovieApp.Mobile.iOS.csproj", "{1BD4CFE1-C799-451F-90C0-BD9AC1F5BF5C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieApp.Mobile", "MovieApp.Mobile\MovieApp.Mobile\MovieApp.Mobile.csproj", "{BC5ABD6A-490A-467C-AEF0-1A5B2B42F110}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MovieApp.Mobile", "MovieApp.Mobile\MovieApp.Mobile\MovieApp.Mobile.csproj", "{BC5ABD6A-490A-467C-AEF0-1A5B2B42F110}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieApp.Core", "MovieApp.Core\MovieApp.Core.csproj", "{7897A351-D74E-4C4D-BBC2-726EB3F48AD8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MovieApp.Core", "MovieApp.Core\MovieApp.Core.csproj", "{7897A351-D74E-4C4D-BBC2-726EB3F48AD8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
