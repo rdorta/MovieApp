@@ -163,8 +163,9 @@ namespace MovieApp.Core.Services
                         {
                             Genre = string.Join(",", n.GenreIds.Select(g => _genres[g])),
                             Name = n.Title,
+                            Id = n.Id,
                             Overview = n.Overview,
-                            Poster = n.Poster,
+                            Poster = $"http://image.tmdb.org/t/p/w185{n.Poster}",
                             ReleaseDate = Convert.ToDateTime(n.ReleaseDate)
                         }));
                     }
